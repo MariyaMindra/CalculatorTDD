@@ -10,7 +10,7 @@ TestResults
 *.user
 
 # Resharper rule
-_ReSharper.StringCalculator
+_ReSharper.StringCalculatorTDD
 FluentAssertions.1.7.1.1
 xunit.1.9.1
 *.ncrunchsolution
