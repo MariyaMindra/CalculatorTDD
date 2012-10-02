@@ -4,3 +4,13 @@ obj
 
 # mstest test results
 TestResults
+
+# Visual Studio files
+*.suo
+*.user
+
+# Resharper rule
+_ReSharper.StringCalculator
+FluentAssertions.1.7.1.1
+xunit.1.9.1
+*.ncrunchsolution
